@@ -21,6 +21,7 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
 11. ##View Dashborads**
 12. https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg
 13. https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg
+14. https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p3.jpg
 
 ---
 
