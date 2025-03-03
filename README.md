@@ -38,6 +38,13 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- ## **Dashboard**
+- ![p2](https://github.com/user-attachments/assets/e20dbf72-a270-4d12-90ff-6767a5a6ffbd)
+- ![p1](https://github.com/user-attachments/assets/1d75886f-6cae-417a-9fdc-8587988efdd4)
+- ![p3](https://github.com/user-attachments/assets/0342e1b6-b1f4-4443-82b0-82fe9e2f4f03)
+
+
+
 
 
 
