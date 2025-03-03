@@ -21,9 +21,9 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
  
  
 11. ##View Dashborads**
-13.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg">Dashboard1<a/>
-14.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg">Dashboard2<a/>
-15.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p3.jpg">Dashboard3<a/>
+13.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg">Dashboard1</a>
+14.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg">Dashboard2</a>
+15.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p3.jpg">Dashboard3</a>
 
 ---
 
