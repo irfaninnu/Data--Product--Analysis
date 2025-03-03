@@ -20,6 +20,7 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
 10. **Yearly Sales Growth** – Sales trend based on `year`.
 11. ##View Dashborads**
 12. https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg
+13. https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg
 
 ---
 
