@@ -42,6 +42,16 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
 - ![p2](https://github.com/user-attachments/assets/e20dbf72-a270-4d12-90ff-6767a5a6ffbd)
 - ![p1](https://github.com/user-attachments/assets/1d75886f-6cae-417a-9fdc-8587988efdd4)
 - ![p3](https://github.com/user-attachments/assets/0342e1b6-b1f4-4443-82b0-82fe9e2f4f03)
+- ## **Project Insight**
+- - The dataset includes **92 companies** with a total of **2,823 orders** analyzed over **2003, 2004, and 2005**.  
+- **Japan** has the highest average sales at **26%**, followed by **North America (25%)**, **EMEA (24.32%)**, and **APAC (23.36%)**.  
+- **January 2005** recorded the **highest sales**.  
+- **Switzerland** contributed the most to country-wise sales.  
+- The total sales amounted to **$10.03 million**.  
+- The analysis covers **company performance** and **average sales per company**.  
+- **Classic cars** are identified as the **most profitable product category**.
+## **Final Conclusion:**
+- To enhance sales and profitability, companies should focus on **high-performing regions like Japan and North America** while identifying growth opportunities in APAC and EMEA. **Targeted marketing strategies** can be implemented during peak sales periods, such as **January**, to maximize revenue. Switzerland's strong market presence indicates potential for expansion in similar high-sales countries. Additionally, prioritizing **classic cars**, the most profitable category, can further boost overall profits. Optimizing company performance and **analyzing average sales per company** will help refine business strategies for sustained growth.  
 
 
 
