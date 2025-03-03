@@ -4,3 +4,4 @@ the Product analysis to create an overall sales report for the product so that, 
 This dataset includes sales transaction details like **customer, product, and financial data**. It covers **shipping mode, location, market, product details, sales, discount, profit, and shipping cost**. It also tracks **order priority and year** for analyzing trends. Useful for **sales analysis, customer segmentation, and forecasting**.
 ## **Dataset used**
 - <a href="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/supersales.csv">Data-Product-analysis</a>
+## **Questions (KPIs)**
