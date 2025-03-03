@@ -5,3 +5,30 @@ This dataset includes sales transaction details like **customer, product, and fi
 ## **Dataset used**
 - <a href="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/supersales.csv">Data-Product-analysis</a>
 ## **Questions (KPIs)**
+Based on the dataset headers, here are some possible **Key Performance Indicators (KPIs)** and **questions** for analysis:
+
+### **KPIs (Key Performance Indicators)**:
+1. **Total Sales** – Sum of the `sales` column.
+2. **Total Profit** – Sum of the `profit` column.
+3. **Total Quantity Sold** – Sum of the `quantity` column.
+4. **Average Discount Rate** – Average of the `discount` column.
+5. **Shipping Cost Analysis** – Sum and average of `shipping_cost`.
+6. **Order Distribution by Priority** – Count of orders by `order_priority`.
+7. **Top-Selling Categories** – Sales contribution of different `category` values.
+8. **Most Profitable Products** – Products with the highest profit.
+9. **State-wise Sales and Profit** – Identify the best-performing `state` for sales and profit.
+10. **Yearly Sales Growth** – Sales trend based on `year`.
+
+---
+
+### **Questions for Analysis**:
+1. What is the **total revenue** and **profit** for the dataset?
+2. Which **year** had the highest sales and profit?
+3. Which **state** contributes the most to sales and profit?
+4. Which **market** and **region** have the highest sales?
+5. Which **category** and **sub-category** have the highest sales and profit?
+6. Which **product** generated the most revenue?
+7. What is the **average discount** given, and how does it affect sales and profit?
+8. What is the **shipping cost trend**, and how does it impact profit?
+9. Which **customer segment** (e.g., corporate, consumer, or home office) purchases the most?
+10. What is the **distribution of order priority** across different years?
