@@ -18,8 +18,6 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
 8. **Most Profitable Products** – Products with the highest profit.
 9. **State-wise Sales and Profit** – Identify the best-performing `state` for sales and profit.
 10. **Yearly Sales Growth** – Sales trend based on `year`.
- 
- 
 11. ## **View Dashborads**
 13.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg">Dashboard1</a>
 14.  <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg">Dashboard2</a>
