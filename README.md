@@ -19,9 +19,9 @@ Based on the dataset headers, here are some possible **Key Performance Indicator
 9. **State-wise Sales and Profit** – Identify the best-performing `state` for sales and profit.
 10. **Yearly Sales Growth** – Sales trend based on `year`.
 11. ## **View Dashborads**
-     <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg">Dashboard1</a>
-     <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg">Dashboard2</a>
-     <a herf="https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p3.jpg">Dashboard3</a>
+12.  https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p1.jpg h
+13.  https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p2.jpg
+14.   https://github.com/irfaninnu/Data--Product--Analysis/blob/main/p3.jpg
 
 ---
 
